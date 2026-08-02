@@ -133,6 +133,9 @@ tmp/
 *.sqlite
 *.sqlite3
 
+# Runtime artifacts
+server.pid
+
 # Node modules (if using any frontend tools)
 node_modules/
 
